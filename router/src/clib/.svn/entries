@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5188"
+   name=""
+   committed-date="2012-08-30T00:31:31.124127Z"
+   url="https://nocs.stanford.edu/cgi-bin/svn.cgi/clib/trunk/src"
+   last-author="dub"
+   kind="dir"
+   uuid="ce7aba0d-9f81-40a6-a495-cecae84b0515"
+   revision="5519"/>
+<entry
+   committed-rev="5188"
+   name="c_gather.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="b978ed7e3b4cefbab443901ece29f2da"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_clkgate.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="28fac4e32c232886ae7f8e89707f1b94"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_shift_reg.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="81bbf7d5b632455c6ae2a9630aff00f7"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_matrix_arbiter.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="b64c5154e7da0bd02dcffd0dd72ce042"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_constants.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="31aca93cc7214ba554a863d2625a4175"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_prio_sel.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="dddd724db499084e321c54538ca18b27"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_decr.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="2178f7e3cdbda57f1705ba36516d3751"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_regfile.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="6f8f6508fdbf1977d490a89eb08a0757"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc_loop.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="6b3eb3a3aeb9e452bc7bf3f55448e327"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_binary_op.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="ad019905c93a95ea31fc1b2fa2a67de4"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:55.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_decode.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="9413168f3a944df4a5a7acd753f62775"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_add_nto1.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="2e632bac14522867eac3bfee75b5345f"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_rr_arbiter.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="d399c89cd86d69a8858a7a0427aaf09c"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc_rep.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="f8b9771643c4cdcf8f12b7f812f3530e"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_prio_enc.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="0c1b284ce01d72360c930b0258e28445"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_fifo_tracker.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="f363af15ad87137747651e0e7c4ab4d7"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_rotate.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="13f8de45faf5700f8943ac916baff956"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_prefix_arbiter_base.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="1421435df6a62c2ada68e69c36c62f32"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_multi_hot_det.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="b519d39b57858d0d4cd9ce24dfef3598"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_lfsr.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="8c3a7577dae504aa107375c8e81807e0"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_damq_ctrl.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="bdb430241dd028b79859c26741daf54e"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_fifo_ctrl.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="438a9aa8655d934a370e4ded64d8d80c"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc_dpa.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="b542a43a5a5606320785183f0becfdac"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc_rot.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="ccb2f885e5dbc812813e9071a9a7aae6"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_reverse.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="9ba6542da8c83d1ea8e048d3d05c1018"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_samq_tracker.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="6494b9153b15accc9c43ef5a454d8d14"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_err_rpt.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="8f423fd15b9a514cb9a7e61474962c88"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_lod.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="8024f9abbd69d2356321e661328f5c9d"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_crossbar.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="dac1ed0a2ff456fe96ae4b66ed8aaf11"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_one_hot_therm_conv.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="3f760d264b006f02bd61005d63a8a91e"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc_mux.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="74f4fe6ed3d4d7d7a6167f7d41a60fb2"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:56.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_fbgen.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="1ed3e21cb7c0a925adad0ab72f576c25"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_mat_mult.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="1f20d1c2afa73665cb078f983d5ba91f"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_fifo.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="7bdc99607d0abca0d9de054e51c43eba"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_rr_arbiter_base.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="58ec5c6e724a3cb487e9a79b3ca46ee2"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_samq_ctrl.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="ea1131d2997cf84491bad75d003ef0ac"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="37042d702c0c14b1561beccb73e2a493"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_arbiter.v"
+   text-time="2014-03-04T09:48:58.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="4469b8e759177209a7fbd76188e5a4c3"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_reduce_bits.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="2fab6d3a73f307d18dfdb40626e44362"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_fbmult.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="5310c53e60164f9143ee851a31f384b7"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_align.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="2bddb061e686f5df31c1243b346a400a"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_incr.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="69707dafa431a913f99c892ecbe5bd83"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_damq_tracker.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="4184c7909d12a25b5b8278726ccd0eed"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_encode.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="fd59e4253d17bff4f7ab1781d3d08110"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_wf_alloc_sdpa.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="ffee21c350ce7fc8a6fe7d5957c7eb99"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_interleave.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="8a5f2b98533f59523667b2c049f20321"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_select_mofn.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="9a699ce669371e30f9fc7f9a39752ad9"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_dff.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="dae758a482451beeaca2179d356488c2"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_one_hot_filter.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="6d0c362bc41b2c0a186d040341c15344"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_gate_bits.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="fb1f7170dfe115d060567b0654c70dbd"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_diag_op.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="d7ecbc1f1f635db56654f6d8e21fcce5"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:57.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_select_1ofn.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="3d2be3d18f87f189eb39df0eafd8b192"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:58.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_prefix_net.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="788daf98f2ac406908f1b5241f2aa1dd"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:58.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_prefix_arbiter.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="77752a7505e1f0f13dac24446144f9ab"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:58.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_scatter.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="2574b2c4ab315d69c909d1cbc29f5d44"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:58.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="c_functions.v"
+   text-time="2014-03-04T09:48:59.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="b23076e5c8575c9c390f8f26c4d3c367"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:58.000000Z"/>
+</wc-entries>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5258"
+   name=""
+   committed-date="2012-09-20T23:31:03.832991Z"
+   url="https://nocs.stanford.edu/cgi-bin/svn.cgi/router/trunk/src"
+   last-author="dub"
+   kind="dir"
+   uuid="ce7aba0d-9f81-40a6-a495-cecae84b0515"
+   prop-time="2014-03-04T09:48:51.000000Z"
+   revision="5519"/>
+<entry
+   committed-rev="5188"
+   name="vcr_top.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="81b19ab481a9cf28bd37e9a308d139de"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_channel_input.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="7c81bc41c7a888d03b20c0bf9848d5dd"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_ivc_ctrl.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="e359730566edf8fd47dd8fefb9f9cf03"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_channel_output.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="23aadcf671e0b0c4698e9c241e1e1b8b"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_fc_state.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="49d64d562311beea563a871f114efec7"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_vc_alloc_sep_if.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="520fceae626c88acce83e3d7405d5184"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_alloc_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="70f3ea25c159123002897f13ca2ba77f"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_ovc_ctrl.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="ff6700b3a1aadb9af153d0069cbfdbf3"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_crossbar_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="f24f546de1204e1fd4ba028b250d6a11"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_constants.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="0687b322976d63ced0bafbc9842535a3"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_vc_alloc_sep_of.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="f88fe0e79042cbf4e158c875b3f86e69"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_vc_alloc_wf.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="72e2e97ae37b0a726c2bcd2adea1baf5"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_route_filter.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="fa7a22000e69b4a3ab57f0487eef668d"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="whr_ip_ctrl_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="6ce5db9f5f3d0a1900af9e2961ce02e5"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_flow_ctrl_input.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="9f79f6bc4d85cc3c51aff283298ccf7b"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_sw_alloc_sep_if.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="86549210a66ec5d1b3e7a9c7be29fedc"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="whr_op_ctrl_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="546590bf6685059f63e1d535c0989542"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_ip_ctrl_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="6630a260ec0c4c54a05462ddb8ca4ca6"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_next_hop_addr.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="305a679814c6408a70ae80ba9f8219d3"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_sw_alloc_sep_of.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="fe19dba8e4ab76e548117d4cf9cefef5"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:50.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_sw_alloc_wf.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="f0bd7aa846c11c3e3480f27cf1322ec7"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_op_ctrl_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="7baa697be431922fd915c114671342f8"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_flags_mux.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="cb4f8a335e4a43694eabd445f9672b78"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_flit_buffer.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="9d459f86c6316fbad6ab8c9174cef715"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="whr_top.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="671afed524cf06748f86ad7361a6801c"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_flit_type_check.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="ae5637e354d4dcd3fa3dcab6fe06a202"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_ip_ctrl_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="bb69515edd1895788825ab97397cf354"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_top.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="474647628bc35a7c73dbcfe9ee3914d3"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="whr_alloc_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="945125a9dae0024928501cac7b25d2a3"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_routing_logic.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="e115e61082f7e74dfcb20fe10e4bbcbe"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="whr_constants.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="9440e8dfebd611cafb08046cb9d28ebe"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="vcr_op_ctrl_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="74214dce48f9b3c8b38e78b704d6a889"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_alloc_mac.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="770d29d0bbbc750ea4a510a6ad911741"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_flow_ctrl_output.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="fe4a4ef9d8512f3e7e41b0db030c99c7"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="parameters.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="0d05782448425ed25b36d311ebe622f0"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="rtr_constants.v"
+   text-time="2014-03-04T09:48:51.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="bbd67f59f493b4f85715877b68880580"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+<entry
+   committed-rev="5188"
+   name="router_wrap.v"
+   text-time="2014-03-04T09:48:52.000000Z"
+   committed-date="2012-08-30T00:31:31.124127Z"
+   checksum="fd9db92418f4a520638739f0d2b2cd5a"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:51.000000Z"/>
+</wc-entries>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5356"
+   name=""
+   committed-date="2012-11-12T08:26:41.327300Z"
+   url="https://nocs.stanford.edu/cgi-bin/svn.cgi/router/trunk"
+   last-author="dub"
+   kind="dir"
+   uuid="ce7aba0d-9f81-40a6-a495-cecae84b0515"
+   prop-time="2014-03-04T09:48:53.000000Z"
+   revision="5519"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="verif"
+   kind="dir"/>
+<entry
+   committed-rev="5257"
+   name="README"
+   text-time="2014-03-04T09:48:53.000000Z"
+   committed-date="2012-09-20T23:29:35.298714Z"
+   checksum="7e1804816db8812ffe2c488c8b7eb63d"
+   last-author="dub"
+   kind="file"
+   prop-time="2014-03-04T09:48:53.000000Z"/>
+</wc-entries>
